@@ -1,3 +1,5 @@
 # NLP_Youtube_Comments_Sentiment_Analysis
 
-This project uses natural language processing (NLP) to analyze YouTube comments for sentiment. It attempts to categorize comments as favorable, negative, or neutral by examining the textual content, giving video content makers insight into the mood of their viewers.
+The rapid expansion of YouTube video has resulted in an enormous amount of comments, which makes it difficult for platform moderators, advertisers, and content providers to effectively assess and comprehend the opinions stated in these comments. Therefore, an automated sentiment analysis system that can effectively and scalable extract insights from YouTube comments is required.
+
+Link to the web application: https://sentiment-analyser.streamlit.app/
